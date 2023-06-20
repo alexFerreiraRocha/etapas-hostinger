@@ -5,7 +5,7 @@
 Crie uma conta ou loge no site HOSTINGER
 
 <div align="left">
-  <img src="https://github.com/WenkerI/hospendando_site/blob/main/1.png"\>
+  <img src="https://github.com/alexFerreiraRocha/etapas-hostinger/blob/main/1.png"\>
 </div>
 
 # ETAPA 2:
