@@ -165,7 +165,7 @@
 ### Vai em contas FTP , escolha um nome de usuario e uma senha ( guarde elas ) 
 
 <div align="left">
-  <img src="https://github.com/WenkerI/hospendando_site/blob/main/21.png"\>
+  <img src="https://github.com/alexFerreiraRocha/etapas-hostinger/blob/main/21.png"\>
 </div>
 
 # ETAPA 22:
@@ -173,7 +173,7 @@
 ### Depois copie e cole dentro do aplicativo ( FileZilla )
 
 <div align="left">
-  <img src="https://github.com/WenkerI/hospendando_site/blob/main/22.png"\>
+  <img src="https://github.com/alexFerreiraRocha/etapas-hostinger/blob/main/22.png"\>
 </div>
 
 # ETAPA 23:
@@ -181,7 +181,7 @@
 ### Vai pegar o host , o nome de usuario, a senha e a porta e colar cada um no seu lugar 
 
 <div align="left">
-  <img src="https://github.com/WenkerI/hospendando_site/blob/main/23.png"\>
+  <img src="https://github.com/alexFerreiraRocha/etapas-hostinger/blob/main/23.png"\>
 </div>
 
 # ETAPA 24:
@@ -189,7 +189,7 @@
 ### Depois selecione e arraste os arquivos do seu site para o 'FileZilla'
 
 <div align="left">
-  <img src="https://github.com/WenkerI/hospendando_site/blob/main/24.png"\>
+  <img src="https://github.com/alexFerreiraRocha/etapas-hostinger/blob/main/24.png"\>
 </div>
 
 # ETAPA 25:
@@ -197,5 +197,5 @@
 ### Pronto! , seu site ja estará hospedado 
 
 <div align="left">
-  <img src="https://github.com/WenkerI/hospendando_site/blob/main/25.png"\>
+  <img src="https://github.com/alexFerreiraRocha/etapas-hostinger/blob/main/25.png"\>
 </div>
