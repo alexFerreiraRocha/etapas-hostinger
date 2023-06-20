@@ -13,7 +13,7 @@ Crie uma conta ou loge no site HOSTINGER
 Apos login , clique aqui para escolher um plano na plataforma
 
 <div align="left">
-  <img src="https://github.com/WenkerI/hospendando_site/blob/main/1.5.png"\>
+  <img src="https://github.com/alexFerreiraRocha/etapas-hostinger/blob/main/2.png"\>
 </div>
 
 # ETAPA 3:
