@@ -2,7 +2,7 @@
 
 # ETAPA 1:
 
-Crie uma conta ou loge no site HOSTINGER
+## Crie uma conta ou loge no site HOSTINGER
 
 <div align="left">
   <img src="https://github.com/alexFerreiraRocha/etapas-hostinger/blob/main/1.png"\>
